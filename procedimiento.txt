@@ -41,5 +41,6 @@ saca el topico del tweet. (Con cosas locas de las cuales no estamos claros aun)
 VICKY:
 - EL TfidVectorizer permite eliminar los acentos de las palabras. Con esto se puede filtrar que las personas escriban mal y asi poder
 dejar uniformes todos los tuits (todos sin acentos)
+- Interesante el TfidVectorizer
 
 
