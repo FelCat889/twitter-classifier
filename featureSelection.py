@@ -2,7 +2,11 @@
 
 import re
 import math
-
+#
+def go():
+	go = "go go go"
+	print(go)
+	
 # fij: total occurrences of the term i in the document j.
 # fdj: total number of terms occurring in document j.
 # fti: total number of documents in which the term i occurs. 
